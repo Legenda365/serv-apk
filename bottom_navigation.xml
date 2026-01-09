@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_servers"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Servers" />
+    <item
+        android:id="@+id/nav_terminal"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Terminal" />
+    <item
+        android:id="@+id/nav_vpn"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="VPN" />
+    <item
+        android:id="@+id/nav_database"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Database" />
+</menu>
